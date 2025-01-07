@@ -19,20 +19,26 @@ Here are some ideas to get you started:
 # Hi there, Welcome to My GitHub Profile! 👋
 
 ## 🚀 About Me
-I am a passionate software developer and problem-solver with expertise in:
-- **Programming Languages**: Java, Python, C++
-- **Specializations**: Machine Learning, Data Structures, Algorithms, Predictive Modeling
-- **Tools & Technologies**: Power BI, SQL, Data Analysis, SDE practices
 
-I'm currently pursuing my degree at **IIT** and am highly motivated to work on challenging projects that involve solving complex problems and delivering data-driven solutions.
+- 🎓 Graduated from IIT Delhi.
+- 💻 Passionate about solving complex problems and delivering data-driven solutions.
+- 🌟 Proficient in **Java**, **Python**, **C++**, **Machine Learning**, **Algorithms**, **Data Structures**, **SQL**, **Data Analysis**, **Predictive Modeling**, and **Power BI**.
+- 👀 Exploring opportunities in **SDE** and **Machine Learning** roles.
+
+
+
+
 
 ---
+## 🚀 Competitive Programming
 
-## 📈 My LeetCode Stats
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ashu_7103&theme=dark&hide=ranking,contestRating)
+- **InterviewBit Stats**:  
+  DashBoard- https://www.interviewbit.com/profile/ashu_7103/
+##  My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashu_7103?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
-### Submission Activity (Last 30 Days)
-![LeetCode Submissions](https://leetcode-streak-stats.herokuapp.com/?user=ashu_7103&theme=dark)
+### LeetCode DashBoard
+https://leetcode.com/u/ashu_7103/
 
 <!--
 ### Highlights:
@@ -79,18 +85,21 @@ Check out my portfolio [here](#).
 
 ## 🛠 Skills
 - **Programming Languages:**
-  - Java, Python, C++
+  -   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - **Data Analysis & Visualization:**
-  - SQL, Power BI
-- **Development Frameworks:**
-  - Insert relevant frameworks
+  - SQL, Power BI, Ms Excel
+- **Specializations**:
+- - Data Structures, Algorithms,Operating System, Machine Learning, Predictive Modeling
 
+   
 ---
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ashu7103)
-- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/ashu_7103/)
-- **Email:** ashutosh7103singh18@gmail.com
+- **LinkedIn:** [Ashutosh Singh](https://www.linkedin.com/in/ashu_7103/)
+- **LeetCode:** [ashu_7103](https://leetcode.com/ashu_7103/)
+- **Email:** [ashutosh7103singh18@gmail.com](mailto:ashutosh7103singh18@gmail.com)
 
 ---
 
